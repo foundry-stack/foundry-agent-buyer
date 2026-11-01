@@ -11,10 +11,10 @@ setuptools.setup(
     description="Zero-config Python client for autonomous AI agents to buy digital goods via HTTP 402 on Base and Avalanche",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/AllanScott/foundry-agent-buyer",
+    url="https://github.com/foundry-stack/foundry-agent-buyer",
     project_urls={
         "Commercial Infrastructure": "https://foundrystack.co.uk",
-        "Bug Tracker": "https://github.com/AllanScott/foundry-agent-buyer/issues",
+        "Bug Tracker": "https://github.com/foundry-stack/foundry-agent-buyer/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
